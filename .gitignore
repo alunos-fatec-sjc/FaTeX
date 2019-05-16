@@ -13,4 +13,8 @@
 *.lot
 *.synctex.gz
 *.toc
+*.xml
+*.lol
 src/*.pdf
+src/*.bib
+teste.tex
