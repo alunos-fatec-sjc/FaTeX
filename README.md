@@ -20,6 +20,7 @@ Ou um editor online:
 - ShareLaTeX
 
 ### Agradecimentos:
+- [Hideki Inoue](https://github.com/hiyoku)
 - [Diogo Branquinho](https://github.com/diogobranquinho)
 - Eduardo Sakaue
 - [Giuliano Bertoti](http://giulianobertoti.github.io/)
